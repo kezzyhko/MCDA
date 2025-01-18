@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2018.01.06 22:56:52.563.cbproj,D:\Users\kezzyhko\Documents\RAD Studio\Projects\Project1.cbproj=D:\Users\kezzyhko\Documents\RAD Studio\Projects\MainProjectFile.cbproj</Transaction>
+    <Transaction>2018.01.06 22:57:00.412.cpp,D:\Users\kezzyhko\Documents\RAD Studio\Projects\Unit1.cpp=D:\Users\kezzyhko\Documents\RAD Studio\Projects\MainUnit.cpp</Transaction>
+    <Transaction>2018.01.06 22:57:00.412.h,D:\Users\kezzyhko\Documents\RAD Studio\Projects\Unit1.h=D:\Users\kezzyhko\Documents\RAD Studio\Projects\MainUnit.h</Transaction>
+    <Transaction>2018.01.06 22:57:00.412.dfm,D:\Users\kezzyhko\Documents\RAD Studio\Projects\Unit1.dfm=D:\Users\kezzyhko\Documents\RAD Studio\Projects\MainUnit.dfm</Transaction>
+    <Transaction>2018.01.06 22:57:19.913.cpp,D:\Users\kezzyhko\Documents\RAD Studio\Projects\MainUnit.cpp=D:\Users\kezzyhko\Desktop\Проект\MCDA\MainUnit.cpp</Transaction>
+    <Transaction>2018.01.06 22:57:19.913.h,D:\Users\kezzyhko\Documents\RAD Studio\Projects\MainUnit.h=D:\Users\kezzyhko\Desktop\Проект\MCDA\MainUnit.h</Transaction>
+    <Transaction>2018.01.06 22:57:19.913.dfm,D:\Users\kezzyhko\Documents\RAD Studio\Projects\MainUnit.dfm=D:\Users\kezzyhko\Desktop\Проект\MCDA\MainUnit.dfm</Transaction>
+    <Transaction>2018.01.06 22:57:21.775.cbproj,D:\Users\kezzyhko\Documents\RAD Studio\Projects\MainProjectFile.cbproj=D:\Users\kezzyhko\Desktop\Проект\MCDA\MainProjectFile.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
