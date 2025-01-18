@@ -1,2 +1,2 @@
-# MCDA
-Multiple-criteria decision analysis. An old school project hosted here for history purposes.
+[Russian / Русский](README_ru.md)
+[English / Английский](README_en.md)
